@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/artivus2/embulki/embulki.jpg" target="_blank">
-        <img src="https://github.com/artivus2/embulki/embulki.jpg" height="100px">
+        <img src="embulki.jpg" height="100px">
     </a>
     <h1 align="center">Yii 2 Basic Project Template</h1>
     <br>
